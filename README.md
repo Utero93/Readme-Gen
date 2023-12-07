@@ -1,14 +1,14 @@
-# new project 
+# README Generator
 
   ## License
 
-This project is licensed under the [MIT License] - see LICENSE file for more details.
+This project is licensed under the [MIT license  License] - see LICENSE file for more details.
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  
 
   ## Description
 
-  creating a proper readme file along with the functioning npm inquirer version
+  This Application dynamically generates a professional README file.
 
   ## Table of Contents 
   - [License](#license)
@@ -21,13 +21,13 @@ This project is licensed under the [MIT License] - see LICENSE file for more det
   
   ## Installation
 
-  using the guide provided 
+  Check that both Node.js and Inquire are installed on your local machine. 
 
   ## Usage
 
-  visit: github/Utero93/Readme-Gen
+  visit: There is no current URL but any user can visit my Github page to download the necessary files.
 
-  enter the following criteria which titles and describes your project and a list of guides on how to use the new project in the read me
+  Download the files required, and run the command: Node index.js and answer the questions to create the README.md file.
 
   ## Contributing 
 
@@ -43,7 +43,7 @@ This project is licensed under the [MIT License] - see LICENSE file for more det
 
   In order to test this project, follow these steps listed below: 
 
-  npm i inquirer, create proper questions, enter in correct information on project, correct licenses, and correct links, then check via npm index to see if the quesstions appear in the terminal 
+  When making an addition, use the "fork" option in github, creating a new branch on your pc when creating your new version. 
 
   ## Questions 
 
