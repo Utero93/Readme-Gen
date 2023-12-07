@@ -1,14 +1,14 @@
-# blah
+# new project 
 
   ## License
 
-This project is licensed under the [adad License] - see LICENSE file for more details.
+This project is licensed under the [MIT License] - see LICENSE file for more details.
 
-  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
 
-  maflf;malfm
+  creating a proper readme file along with the functioning npm inquirer version
 
   ## Table of Contents 
   - [License](#license)
@@ -21,13 +21,13 @@ This project is licensed under the [adad License] - see LICENSE file for more de
   
   ## Installation
 
-  afad
+  using the guide provided 
 
   ## Usage
 
-  visit: adad
+  visit: github/Utero93/Readme-Gen
 
-  adad
+  enter the following criteria which titles and describes your project and a list of guides on how to use the new project in the read me
 
   ## Contributing 
 
@@ -43,11 +43,11 @@ This project is licensed under the [adad License] - see LICENSE file for more de
 
   In order to test this project, follow these steps listed below: 
 
-  adad
+  npm i inquirer, create proper questions, enter in correct information on project, correct licenses, and correct links, then check via npm index to see if the quesstions appear in the terminal 
 
   ## Questions 
 
-  [Find me on Github!](github.com/adad)
+  [Find me on Github!](github.com/Utero93)
 
-If you have any further questions, feel free to reach me via adad
+If you have any further questions, feel free to reach me via angel.m.gonzalez193@gmail.com
 
